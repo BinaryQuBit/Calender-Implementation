@@ -1,0 +1,12 @@
+.Xil
+Calender.ip_user_files
+utils_1
+*.jou
+*.log
+*.cache
+*.hw
+*.runs
+*.sim
+*.xdc
+*.xpr
+*.rtf
