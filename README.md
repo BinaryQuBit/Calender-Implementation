@@ -77,7 +77,7 @@
 </div>
 
 ### Assumptions:
-- Basic Knowledge of VHDL and Digital Design:
+- Basic Knowledge of VHDL and Digital Design
 - Familiarity with FPGA Development Tools
 - Access to Basys3 FPGA Board
 - Understanding of Digital Timing and Synchronization
