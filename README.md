@@ -28,6 +28,8 @@
   Design and implement a digital calendar on the Basys3 FPGA board using VHDL, featuring a unique functionality that illuminates all LEDs during the user's birthday month. The project aims to demonstrate proficiency in hardware description languages, digital design, and FPGA-based system development while integrating a personalized feature to enhance user interaction and experience.
 </p>
 
+<br>
+
 <div style="width: 100%;">
     <a href="#"><img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/99b7aa6f08701c8fcac3add942ac416b607ae2a4/headers/background.svg" style="width: 100%"></a>
 </div>
