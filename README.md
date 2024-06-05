@@ -12,7 +12,7 @@
 <br>
 
 <div align="center" style="width: 100%;">
-    <a href="#"><img src="#" style="width: 100%">Final Product</a>
+    <a href="https://www.youtube.com/watch?v=F5vOHMdCtMQ"><img src="https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/calendarImplementation.gif?raw=true" style="width: 100%">Final Product</a>
 </div>
 
 <br>
